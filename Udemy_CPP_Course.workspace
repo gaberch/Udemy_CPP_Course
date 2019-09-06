@@ -3,7 +3,7 @@
   <VirtualDirectory Name="Section5">
     <Project Name="ModifiedProgram" Path="ModifiedProgram/ModifiedProgram.project" Active="No"/>
     <Project Name="Comments" Path="Comments/Comments.project" Active="No"/>
-    <Project Name="BasicIO" Path="BasicIO/BasicIO.project" Active="Yes"/>
+    <Project Name="BasicIO" Path="BasicIO/BasicIO.project" Active="No"/>
   </VirtualDirectory>
   <VirtualDirectory Name="Section4">
     <Project Name="LinkerError" Path="LinkerError/LinkerError.project" Active="No"/>
@@ -13,6 +13,14 @@
     <Project Name="Section_4_Challenge" Path="Section_4_Challenge/Section_4_Challenge.project" Active="No"/>
     <Project Name="Test1" Path="Test1/Test1.project" Active="No"/>
     <Project Name="Test2" Path="Test2/Test2.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section6">
+    <Project Name="InitializingVariables" Path="InitializingVariables/InitializingVariables.project" Active="No"/>
+    <Project Name="GlobalVariables" Path="GlobalVariables/GlobalVariables.project" Active="No"/>
+    <Project Name="PrimitiveTypes" Path="PrimitiveTypes/PrimitiveTypes.project" Active="No"/>
+    <Project Name="SizeofOperator" Path="SizeofOperator/SizeofOperator.project" Active="No"/>
+    <Project Name="Constants" Path="Constants/Constants.project" Active="No"/>
+    <Project Name="Section_6_Challenge" Path="Section_6_Challenge/Section_6_Challenge.project" Active="Yes"/>
   </VirtualDirectory>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
@@ -27,6 +35,12 @@
       <Project Name="ModifiedProgram" ConfigName="Debug"/>
       <Project Name="Comments" ConfigName="Debug"/>
       <Project Name="BasicIO" ConfigName="Debug"/>
+      <Project Name="InitializingVariables" ConfigName="Debug"/>
+      <Project Name="GlobalVariables" ConfigName="Debug"/>
+      <Project Name="PrimitiveTypes" ConfigName="Debug"/>
+      <Project Name="SizeofOperator" ConfigName="Debug"/>
+      <Project Name="Constants" ConfigName="Debug"/>
+      <Project Name="Section_6_Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -40,6 +54,12 @@
       <Project Name="ModifiedProgram" ConfigName="Release"/>
       <Project Name="Comments" ConfigName="Release"/>
       <Project Name="BasicIO" ConfigName="Release"/>
+      <Project Name="InitializingVariables" ConfigName="Release"/>
+      <Project Name="GlobalVariables" ConfigName="Release"/>
+      <Project Name="PrimitiveTypes" ConfigName="Release"/>
+      <Project Name="SizeofOperator" ConfigName="Release"/>
+      <Project Name="Constants" ConfigName="Release"/>
+      <Project Name="Section_6_Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
