@@ -1,113 +1,169 @@
 [{
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/Section_8_Challenge/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Section_8_Challenge",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Section_8_Challenge/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Section_8_Challenge/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Histogram/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Histogram",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Histogram/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Histogram/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
  }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/EqualityOperators/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/EqualityOperators",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/EqualityOperators/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/EqualityOperators/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/MultiplicationTable/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/MultiplicationTable",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/MultiplicationTable/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/MultiplicationTable/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
  }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/MixedExpressions/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/MixedExpressions",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/MixedExpressions/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/MixedExpressions/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/RangeBasedForLoop/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/RangeBasedForLoop",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/RangeBasedForLoop/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/RangeBasedForLoop/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
  }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/IncrementDecrementOperators/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/IncrementDecrementOperators",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/IncrementDecrementOperators/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/IncrementDecrementOperators/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/AssignmentOperator/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/AssignmentOperator",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/AssignmentOperator/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/AssignmentOperator/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/Section_7_Challenge/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Section_7_Challenge",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Section_7_Challenge/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Section_7_Challenge/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/Vectors/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Vectors",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Vectors/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Vectors/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/RelationalOperators/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/RelationalOperators",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/RelationalOperators/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/RelationalOperators/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/Arrays/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Arrays",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Arrays/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Arrays/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/CompilerWarnings/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/CompilerWarnings",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/CompilerWarnings/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/CompilerWarnings/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/LogicalOperators/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/LogicalOperators",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/LogicalOperators/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/LogicalOperators/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/PrimitiveTypes/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/PrimitiveTypes",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/PrimitiveTypes/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/PrimitiveTypes/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/FirstProgram/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/FirstProgram",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/FirstProgram/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/FirstProgram/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/ModifiedProgram/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/ModifiedProgram",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/ModifiedProgram/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/ModifiedProgram/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/Comments/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Comments",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Comments/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Comments/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/SizeofOperator/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/SizeofOperator",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/SizeofOperator/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/SizeofOperator/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/CompilerErrors/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/CompilerErrors",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/CompilerErrors/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/CompilerErrors/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/Section_4_Challenge/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Section_4_Challenge",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Section_4_Challenge/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Section_4_Challenge/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/InitializingVariables/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/InitializingVariables",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/InitializingVariables/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/InitializingVariables/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/ArithmeticOperators/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/ArithmeticOperators",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/ArithmeticOperators/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/ArithmeticOperators/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/LinkerError/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/LinkerError",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/LinkerError/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/LinkerError/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/Constants/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Constants",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Constants/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Constants/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/Euros/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Euros",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Euros/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Euros/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/Test1/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Test1",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Test1/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Test1/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/Test2/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Test2",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Test2/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Test2/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
- }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/GlobalVariables/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/GlobalVariables",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/GlobalVariables/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/GlobalVariables/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Section_6_Challenge/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Section_6_Challenge",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Section_6_Challenge/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Section_6_Challenge/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
  }, {
   "file": "/home/gabe/Documents/Udemy_CPP_Course/BasicIO/main.cpp",
   "directory": "/home/gabe/Documents/Udemy_CPP_Course/BasicIO",
   "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/BasicIO/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/BasicIO/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
  }, {
-  "file": "/home/gabe/Documents/Udemy_CPP_Course/Section_6_Challenge/main.cpp",
-  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Section_6_Challenge",
-  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Section_6_Challenge/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Section_6_Challenge/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/GlobalVariables/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/GlobalVariables",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/GlobalVariables/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/GlobalVariables/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Test2/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Test2",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Test2/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Test2/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/ConditionalOperator/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/ConditionalOperator",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/ConditionalOperator/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/ConditionalOperator/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Test1/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Test1",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Test1/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Test1/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Section_9_Challenge/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Section_9_Challenge",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Section_9_Challenge/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Section_9_Challenge/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Euros/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Euros",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Euros/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Euros/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/DoWhile/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/DoWhile",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/DoWhile/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/DoWhile/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/LinkerError/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/LinkerError",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/LinkerError/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/LinkerError/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Switch/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Switch",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Switch/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Switch/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/ArithmeticOperators/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/ArithmeticOperators",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/ArithmeticOperators/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/ArithmeticOperators/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/InitializingVariables/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/InitializingVariables",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/InitializingVariables/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/InitializingVariables/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Section_4_Challenge/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Section_4_Challenge",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Section_4_Challenge/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Section_4_Challenge/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/CompilerErrors/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/CompilerErrors",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/CompilerErrors/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/CompilerErrors/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/SizeofOperator/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/SizeofOperator",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/SizeofOperator/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/SizeofOperator/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Comments/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Comments",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Comments/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Comments/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/ModifiedProgram/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/ModifiedProgram",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/ModifiedProgram/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/ModifiedProgram/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/SwitchEnum/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/SwitchEnum",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/SwitchEnum/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/SwitchEnum/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/FirstProgram/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/FirstProgram",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/FirstProgram/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/FirstProgram/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/PrimitiveTypes/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/PrimitiveTypes",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/PrimitiveTypes/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/PrimitiveTypes/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/LogicalOperators/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/LogicalOperators",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/LogicalOperators/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/LogicalOperators/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/CompilerWarnings/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/CompilerWarnings",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/CompilerWarnings/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/CompilerWarnings/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Arrays/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Arrays",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Arrays/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Arrays/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/RelationalOperators/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/RelationalOperators",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/RelationalOperators/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/RelationalOperators/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Vectors/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Vectors",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Vectors/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Vectors/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Constants/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Constants",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Constants/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Constants/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Section_7_Challenge/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Section_7_Challenge",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Section_7_Challenge/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Section_7_Challenge/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/AssignmentOperator/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/AssignmentOperator",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/AssignmentOperator/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/AssignmentOperator/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/IncrementDecrementOperators/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/IncrementDecrementOperators",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/IncrementDecrementOperators/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/IncrementDecrementOperators/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/MixedExpressions/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/MixedExpressions",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/MixedExpressions/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/MixedExpressions/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/EqualityOperators/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/EqualityOperators",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/EqualityOperators/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/EqualityOperators/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/IfStatement/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/IfStatement",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/IfStatement/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/IfStatement/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/WhileLoop/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/WhileLoop",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/WhileLoop/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/WhileLoop/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/IfElseStatement/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/IfElseStatement",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/IfElseStatement/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/IfElseStatement/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Section_8_Challenge/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Section_8_Challenge",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Section_8_Challenge/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Section_8_Challenge/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/ForLoop/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/ForLoop",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/ForLoop/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/ForLoop/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Grades/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Grades",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Grades/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Grades/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/gabe/Documents/Udemy_CPP_Course/Shipping/main.cpp",
+  "directory": "/home/gabe/Documents/Udemy_CPP_Course/Shipping",
+  "command": "clang  -c /home/gabe/Documents/Udemy_CPP_Course/Shipping/main.cpp -o /home/gabe/Documents/Udemy_CPP_Course/Shipping/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
  }]

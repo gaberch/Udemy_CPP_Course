@@ -1,0 +1,9 @@
+*.slo
+*.lo
+*.o
+*.obj
+*.workspace
+*.d
+*.txt
+*.mk
+*.o.d
